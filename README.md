@@ -12,10 +12,10 @@ An **AI-powered Medical Chatbot** that interprets symptoms, retrieves relevant m
 
 ## Screenshots
 
-![Chatbot Interface](screenshots\Homepage.png)
-![Working ChatBot](screenshots\Chatbot.png)
-![Working ChatBot](screenshots\Chatbot2.png)
-![Doctors Appointment Page](screenshots\Doctors.png)
+![Chatbot Interface](screenshots/Homepage.png)
+![Working ChatBot](screenshots/Chatbot.png)
+![Working ChatBot](screenshots/Chatbot2.png)
+![Doctors Appointment Page](screenshots/Doctors.png)
 
 ## Usage
 
