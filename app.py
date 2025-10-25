@@ -16,13 +16,15 @@ from pydantic import PrivateAttr  # For Groq class fix
 import os
 
 
+
+
 # Initialize Flask app
 app = Flask(__name__)
 
 # Load environment variables
 load_dotenv()
 os.environ["PINECONE_API_KEY"] = ""
-os.environ["GROQ_API_KEY"] = " "
+os.environ["GROQ_API_KEY"] = ""
 
 
 # Download Hugging Face embeddings
